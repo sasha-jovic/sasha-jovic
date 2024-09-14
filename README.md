@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sasha-jovic
-- 👀 I’m interested in ...
+- 👋 Hi, I’m sasha jovic
+
 - 🌱 I’m currently learning softwere engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 📫 How to reach me:sashajovic12@yahoo.com
+
+
 
 <!---
 sasha-jovic/sasha-jovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
